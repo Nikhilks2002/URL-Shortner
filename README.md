@@ -26,7 +26,7 @@ A simple URL shortening service like [bit.ly](https://bit.ly) or [tinyurl.com](h
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+   git clone https://github.com/Nikhilks2002/URL-Shortner.git
    cd url-shortener
 ``
 
